@@ -52,25 +52,15 @@ export default function Page4() {
             >
               <div className="media-content">
                 <h1 className="text-center text-lg-start">
-                  <span className="header-intro">Hello, I'm Ilan Vaks</span >
+                  <span className="header-intro">Sup Bud! I'm Aaron Agosto</span >
                 </h1>
                 <p className="header-intro">
-                  Orginally from Brooklyn, New York, but now residing in South Florida, I'm a software engineer
-                  passionate about sculpting masterpieces in JavaScript,
-                  TypeScript, React.js, and MongoDB. Outside the realm of code,
-                  I channel my energy into sports, sharpening both my body and
-                  mind for forthcoming challenges.
+                 Born and raised in the beautiful region of South Florida. Currently, I work as a software engineer, specializing in technologies such as React.js, AWS, and JavaScript. I have a passion for troubleshooting and finding solutions to complex problems. When I'm not immersed in coding, you'll often find me indulging in my other hobbies like watching sports or enjoying the tranquility of fishing.
+                    <br/>
+                Let me know if there's anything else I can help you with!
                 </p>
 
                 <div className="text-center text-md-center text-lg-start">
-                <Button
-                    as={HashLink}
-                    onClick={handle360Id}
-                    size="lg"
-                    variant="danger"
-                    className="equal-size d-block d-lg-inline m-auto button-style button-effect"
-                  > alterScenery
-                  </Button>
                     <Button
                       as={HashLink}
                       to="/#portfolio"

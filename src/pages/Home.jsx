@@ -11,9 +11,9 @@ export default function Home() {
   return (
     <AppLayout>
       <Header/>
+      <Skills/>
       <Characteristics/>
       <Projects/>
-      <Skills/>
       <Certs/>
       <AboutPPF/>
     </AppLayout>

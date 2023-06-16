@@ -15,6 +15,7 @@ export default function NavMenu () {
             <Nav.Link as={HashLink} to="#characteristics">Some More About Me</Nav.Link>
             <Nav.Link as={HashLink} to="#projects">Things I've made</Nav.Link>
             <Nav.Link as={HashLink} to="#skills">Certifications</Nav.Link>
+            <Nav.Link as={HashLink} to="#about">About me</Nav.Link>
             <Contact/>
           </Nav>
         </Navbar.Collapse>

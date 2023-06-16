@@ -3,6 +3,7 @@ import { Col, Card } from "react-bootstrap";
 export default function GalleryCard ( {portfolio: { id, title, content, website, cover}}) {
 
   return (
+    <section id="projects" >
     <Col key={id} className="button-effect">
       <Card>
         <figure className="figure-image">
@@ -18,5 +19,6 @@ export default function GalleryCard ( {portfolio: { id, title, content, website,
         </article>
       </Card>
     </Col>
+    </section>
   )
 }

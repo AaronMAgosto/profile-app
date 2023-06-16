@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "title": "Lorem", 
-    "content" : "honey hole info",
+    "title": "Honey Hole", 
+    "content" : "Honey Hole is a full stack web application that was developed for South Florida fisherman to find, mark, and review the best fishing spots in sunny South Florida! Click the image to be directed there!",
     "website": "https://soflohoneyholes.com/",
     "cover": "/images/proimage1.png"    
   },
   {
     "id": 1,
-    "title": "Lorem", 
-    "content" : "honey hole info",
-    "website": "soflohoneyholes.com",
+    "title": "Local Restaurant List", 
+    "content" : "This project was my first desktop application created in Electron, click the iage to see the codes in Github!",
+    "website": "https://github.com/AaronMAgosto/electron-resturaunt-list",
     "cover": "/images/proimage2.png"
   }
 

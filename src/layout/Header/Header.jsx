@@ -19,7 +19,7 @@ export default function Page4() {
   };
 
   return (
-    <main>
+    <main id="main" >
       <div className="media-container">
         <div className="media-wrapper">
           <Pannellum
@@ -63,7 +63,7 @@ export default function Page4() {
                 <div className="text-center text-md-center text-lg-start">
                     <Button
                       as={HashLink}
-                      to="/#portfolio"
+                      to="/#projects"
                       size="lg"
                       variant="danger"
                       className="equal-size d-block d-lg-inline m-auto button-style button-effect"

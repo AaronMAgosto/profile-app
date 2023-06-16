@@ -7,7 +7,7 @@ export default function Characteristics () {
      <section id="characteristics">
      <Container className="my-5">
     <Row>
-        <Col><h2 className="card-title text-center">Some More About Me</h2></Col>
+        <Col><h2 className="card-title text-center">Characteristics for Success</h2></Col>
       </Row>
 
       <Row>
@@ -16,29 +16,16 @@ export default function Characteristics () {
         <div class="flip-card">
     <div class="flip-card-inner">
         <div class="flip-card-front">
-        <img className="qf-img" src="/images/qf1.png" alt="badass bass" />
+        <img className="" src="" alt="" />
 
-            <p class="title">Native Fish Species:</p>
-            <p>Hover Over to Learn More!!</p>
+            <p class="title">Problem-solving skills</p>
+            <p>"It's not a bug, its a Feature"</p>
         </div>
         <div class="flip-card-back">
-            <h2 class="title">Top 10 Most Prevalent Fish</h2>
+            <h2 class="title">Trouble shoot your way to freedom</h2>
             
             <p>
-              <ul>
-               <li>Largemouth Bass</li>
-               <li>Bluegill</li>
-               <li>Black Crappie</li> 
-               <li>Sunshine Bass</li> 
-               <li>Channel Catfish</li> 
-               <li>Redear Sunfish</li> 
-               <li>Striped Bass</li> 
-               <li>Spotted Sunfish</li>
-               <li>Warmouth</li> 
-               <li>Bowfin</li> 
-                
-                </ul>
-              
+            Software engineers encounter complex problems regularly and need strong problem-solving abilities to analyze, break down, and develop effective solutions. They must possess a logical and analytical mindset, be able to think critically, and approach challenges with creativity and resourcefulness. Problem-solving skills enable software engineers to identify the root causes of issues, devise efficient algorithms, and develop robust software solutions
             </p>
         </div>
     </div>
@@ -49,25 +36,14 @@ export default function Characteristics () {
         <div class="flip-card">
     <div class="flip-card-inner">
         <div class="flip-card-front">
-        <img className="qf-img" src="/images/qf2.png" alt="earthy thing" />
-            <p class="title">Conservation Tips</p>
-            <p>Hover Over to Learn More!!</p>
+        <img className="" src="" alt="" />
+            <p class="title">Continual learning and adaptability</p>
+            <p>Improvise, Adapt, Overcome.</p>
         </div>
         <div class="flip-card-back">
-            <h2 class="title">Best Fishing Practices:</h2>
+            <h2 class="title">Use it or Lose it</h2>
             <p>
-              <ul>
-                <li>Practice Catch and Release</li>
-                <li>Follow Fishing Regulations</li>
-                <li>Properly Dispose of Trash</li>
-                <li>Respect Wildlife</li>
-                <li>Use Barbless Hooks</li>
-                <li>Handle Fish with Care</li>
-                <li>Avoid Overfishing</li>
-                <li>Prevent the Spread of Invasive Species</li>
-                <li>Support Habitat Restoration</li>
-                <li>Support Local Conservation Organizations</li>
-              </ul>
+            The field of software engineering is constantly evolving, with new technologies, frameworks, and programming languages emerging regularly. Successful software engineers embrace a growth mindset and possess a strong desire to learn and adapt. They stay updated with industry trends, seek out new knowledge, and are comfortable stepping outside their comfort zones. Adapting to change is crucial for software engineers to keep their skills relevant and effectively navigate the evolving landscape of technology.
             </p>
         </div>
     </div>
@@ -77,19 +53,14 @@ export default function Characteristics () {
         <Col><div class="flip-card">
     <div class="flip-card-inner">
         <div class="flip-card-front">
-        <img className="qf-img" src="/images/qf3.png" alt="Florida state seal" />
-            <p class="title">Florida Fishing Facts</p>
-            <p>Hover Over to Learn More!!</p>
+        <img className="" src="" alt="" />
+            <p class="title">Effective communication and collaboration</p>
+            <p>Teamwork makes the Dream Work</p>
         </div>
         <div class="flip-card-back">
-            <p class="title">A Couple Fun Facts for you</p>
+            <p class="title">This is a Team Sport</p>
             <p>
-              <ul>
-                <li>Florida is known as the "Fishing Capital of the World" due to its abundant and diverse fishing opportunities.</li>
-                <li>Florida has over 7,700 lakes, providing ample opportunities for freshwater fishing.</li>
-                <li>Lake Okeechobee, also known as the "Big O," is the largest freshwater lake in Florida and offers exceptional bass fishing opportunities.</li>
-                <li>Florida is known for its extensive canal system, providing anglers with easily accessible freshwater fishing spots throughout the state.</li>
-              </ul>
+            Software engineering is rarely a solitary endeavor. Collaboration and effective communication are vital for success in team-based projects. Software engineers must be able to communicate their ideas, listen actively, and articulate technical concepts to both technical and non-technical stakeholders. They should work well with others, respect diverse perspectives, and contribute positively to team dynamics. Effective communication and collaboration enable software engineers to work seamlessly in cross-functional teams, share knowledge, and collectively deliver high-quality software solutions.
             </p>
         </div>
     </div>

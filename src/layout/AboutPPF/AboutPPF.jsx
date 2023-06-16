@@ -1,4 +1,4 @@
-import {Container, Row, Col, Image} from "react-bootstrap";
+import {Container, Row, Col, Image,Button } from "react-bootstrap";
 
 
 export default function AboutPPF () {
@@ -9,7 +9,7 @@ export default function AboutPPF () {
     <Container id="about" className="p-5">
     <Row>
       <Col>
-        <h2 className="text-center">About <br/> <span>A Contrarian's Perspective on Life.</span></h2>
+        <h2 className="text-center">About <br/> <span> A Journey of Transitions and Adaptation</span></h2>
       </Col>
     </Row>
 
@@ -21,19 +21,19 @@ export default function AboutPPF () {
       </Col>
 
       <Col  lg={8}  className="main-summary">
-        <p>My upbringing has had a significant impact on my worldview. I was born in Korea and later moved to Hawaii for high school, where I experienced a challenging transition from East to West society. After that, I pursued a ceramics degree at an art school in Rhode Island and started my career as a web developer in Boston in 2001 before moving to Baltimore, Maryland. Life has been unpredictable, but I have come to embrace the unexpected.</p>
-        <p>Currently, I am a senior instructor at Boca Code, where I have the privilege of working with the next generation of software engineers. I take a contrarian approach to teaching, encouraging my students to think critically as individuals and as part of a team. Their unique perspectives inspire me to learn from them and continue to grow.</p>        
-        <p>Looking to the future, I am fascinated by the potential of new technologies such as artificial intelligence and machine learning (AI/ML). As a contrarian, I am eager to explore these fields from a unique perspective and contribute to their growth in ways that challenge conventional thinking. The possibilities are endless, and who knows what unexpected discoveries we might make – perhaps even having PB&J sandwiches on the moon!</p>
+        <p>I grew up in sunny South Florida, where the vibrant environment and warm climate nurtured my love for the outdoors. Spending time amidst nature became an integral part of my upbringing. Interestingly, my roots are deeply intertwined with the construction industry, particularly as an electrician. However, one day, I stumbled upon the captivating world of software engineering, and it sparked an insatiable curiosity within me. The more I explored this fascinating field, the stronger my desire to learn and dive deeper into its intricacies grew.</p>
+        <p>Driven by my newfound passion, I took a significant leap and joined Boca Code, a renowned school that cultivates aspiring software engineers. The experience was transformative, and I recently celebrated my graduation from the program. As a newly graduate, I now find myself in an exhilarating position—interning at Boca Code. It is a thrilling opportunity that allows me to apply and expand my knowledge in practical settings. With each passing day, I am fueled by the prospect of taking on new challenges and embracing emerging technologies.</p>        
+        <p>Looking forward, my focus is set on exploring cutting-edge domains that push the boundaries of innovation. I have developed a keen interest in delving into the realms of artificial intelligence (AI), Web3, and blockchain. These areas hold tremendous potential and are poised to redefine numerous industries. As I embark on this journey, I am determined to contribute to their growth and evolution. By bringing a fresh perspective and challenging conventional thinking, I aspire to make meaningful contributions that shape the future landscape of technology.</p>
       </Col>
     </Row>
 
     <Row>        
       <Col className="text-center">
-        <a href="https://www.linkedin.com/in/jsohndata/"
+        <a href="https://www.linkedin.com/in/aaronagosto/"
         target="_blank"
         rel="noreferrer"
         className="button-effect">
-          {/* <ButtonOutline text={"Connect on Linkedin"} /> */}
+          <Button>Connect on Linkedin</Button>
         </a>
       </Col>
     </Row>

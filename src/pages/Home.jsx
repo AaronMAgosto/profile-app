@@ -1,4 +1,4 @@
-import AppLayout from '../AppLayout'
+import AppLayout from '../layout/AppLayout'
 import Header from '../layout/Header'
 import Characteristics from '../layout/Characteristics'
 import Projects from '../layout/Projects'

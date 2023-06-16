@@ -4,10 +4,10 @@ export default function Characteristics () {
 
   return (
     <>
-     <section>
+     <section id="characteristics">
      <Container className="my-5">
     <Row>
-        <Col><h2 className="card-title text-center">Quick Facts</h2></Col>
+        <Col><h2 className="card-title text-center">Some More About Me</h2></Col>
       </Row>
 
       <Row>
